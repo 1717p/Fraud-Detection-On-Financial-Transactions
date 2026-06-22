@@ -69,7 +69,6 @@ A financial company wants to proactively detect fraudulent transactions using hi
 * Balanced dataset using SMOTE improved minority class detection.
 * Delivered **actionable insights** to improve fraud prevention.
 
-
 ---
 
 ### 📬 **Future Work**
